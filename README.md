@@ -1,2 +1,2 @@
 # tapmusing
-This is a Beatmaker using vanilla javascript.
+This is a Beatmaker made using vanilla javascript.
